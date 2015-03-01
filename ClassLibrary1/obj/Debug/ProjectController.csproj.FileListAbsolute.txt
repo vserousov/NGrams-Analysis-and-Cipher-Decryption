@@ -1,0 +1,14 @@
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Debug\ProjectController.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Debug\ProjectController.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\obj\Debug\ProjectController.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\obj\Debug\ProjectController.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\obj\Debug\ProjectController.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Debug\Counter.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Debug\Counter.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\ClassLibrary1\bin\Debug\ProjectController.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\ClassLibrary1\bin\Debug\ProjectController.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\ClassLibrary1\bin\Debug\Counter.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\ClassLibrary1\bin\Debug\Counter.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\ClassLibrary1\obj\Debug\ProjectController.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\ClassLibrary1\obj\Debug\ProjectController.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\ClassLibrary1\obj\Debug\ProjectController.pdb

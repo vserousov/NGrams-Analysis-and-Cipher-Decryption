@@ -1,0 +1,62 @@
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.exe.config
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.exe
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\Counter.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\ProjectController.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\ProjectController.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\Counter.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form1.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form2.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form3.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form4.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form5.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form6.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Properties.Resources.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csproj.GenerateResource.Cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.exe
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csproj.ResolveComReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form7.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form8.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form9.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\Cipher.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\bin\Debug\Cipher.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form10.resources
+C:\Users\AlfaSens\Desktop\Курсовая\Проект\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.exe.config
+C:\Users\AlfaSens\Desktop\Курсовая\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csproj.ResolveComReference.cache
+C:\Users\AlfaSens\Desktop\Курсовая\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.exe
+C:\Users\AlfaSens\Desktop\Курсовая\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.exe.config
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csproj.ResolveComReference.cache
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.exe
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.exe
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\Cipher.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\Counter.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\ProjectController.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\Cipher.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\ProjectController.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\Counter.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form1.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form10.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form2.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form3.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form4.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form5.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form6.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form7.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form8.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Form9.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.Properties.Resources.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csproj.GenerateResource.Cache
+C:\Users\AlfaSens\Desktop\Документы\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.exe.config
+C:\Users\AlfaSens\Desktop\Документы\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csproj.ResolveComReference.cache
+C:\Users\AlfaSens\Desktop\Документы\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.exe
+C:\Users\AlfaSens\Desktop\Документы\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.pdb
+C:\Users\AlfaSens\Desktop\Мусор\Part1\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\bin\Debug\FrequencyAnalyze.exe.config
+C:\Users\AlfaSens\Desktop\Мусор\Part1\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.csproj.ResolveComReference.cache
+C:\Users\AlfaSens\Desktop\Мусор\Part1\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.exe
+C:\Users\AlfaSens\Desktop\Мусор\Part1\Курсовая работа\Проект\courseproject\WindowsFormsApplication1\obj\Debug\FrequencyAnalyze.pdb

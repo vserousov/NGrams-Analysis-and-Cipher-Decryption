@@ -1,0 +1,7 @@
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Release\ProjectController.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Release\ProjectController.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Release\Counter.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\bin\Release\Counter.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\obj\Release\ProjectController.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\obj\Release\ProjectController.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\ClassLibrary1\obj\Release\ProjectController.pdb

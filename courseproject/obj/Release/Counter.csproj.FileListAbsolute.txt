@@ -1,0 +1,5 @@
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\courseproject\bin\Release\Counter.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\courseproject\bin\Release\Counter.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\courseproject\obj\Release\Counter.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\courseproject\obj\Release\Counter.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\courseproject\obj\Release\Counter.pdb

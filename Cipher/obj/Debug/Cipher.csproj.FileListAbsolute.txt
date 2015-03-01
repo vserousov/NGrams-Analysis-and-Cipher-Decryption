@@ -1,0 +1,18 @@
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\bin\Debug\Cipher.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\bin\Debug\Cipher.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\obj\Debug\Cipher.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\obj\Debug\Cipher.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\obj\Debug\Cipher.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\bin\Debug\Counter.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\bin\Debug\Counter.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\obj\Debug\Cipher.Properties.Resources.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\courseproject\Cipher\obj\Debug\Cipher.csproj.GenerateResource.Cache
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\bin\Debug\Cipher.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\bin\Debug\Cipher.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\bin\Debug\Counter.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\bin\Debug\Counter.pdb
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\obj\Debug\Cipher.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\obj\Debug\Cipher.Properties.Resources.resources
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\obj\Debug\Cipher.csproj.GenerateResource.Cache
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\obj\Debug\Cipher.dll
+C:\Users\AlfaSens\Desktop\Курсовая работа\Проект\courseproject\Cipher\obj\Debug\Cipher.pdb
